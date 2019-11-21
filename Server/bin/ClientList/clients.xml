@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clients>
+	<client>
+		<name>mike</name>
+		<pwd>123456</pwd>
+	</client>
+	<client>
+		<name>john</name>
+		<pwd>123456</pwd>
+	</client>
+</clients>	
